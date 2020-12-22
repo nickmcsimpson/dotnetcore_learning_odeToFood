@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace OdeToFood.Data {
     public interface IRestaurantData {
-        IEnumerable<Restaurant> GetRestaurants();
+        IEnumerable<Restaurant> GetRestaurantsByName(string name);
     }
 
     public class InMemoryRestaurantData: IRestaurantData {
@@ -20,8 +20,11 @@ namespace OdeToFood.Data {
             };
         }
 
-        public IEnumerable<Restaurant> GetRestaurants() {
-            return from r in restaurants orderby r.Name select r;
+        public IEnumerable<Restaurant> GetRestaurantsByName(string name = null) {
+            return from r in restaurants 
+                where string.IsNullOrEmpty(name) || r.Name.StartsWith(name)
+                orderby r.Name 
+                select r;
         }
     }
 }

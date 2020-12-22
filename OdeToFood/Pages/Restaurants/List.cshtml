@@ -9,7 +9,10 @@
 <form method="get">
     <div class="form-group">
         <div class="input-group">
-            <input type="search" class="form-control" value=""/>
+            @* Model (2-way) binding: Model. is assumed*@
+            <input type="search" class="form-control" name="searchTerm"
+                    asp-for="SearchTerm"/>
+            @* Setting the value to empty doesn't bind to the previous input *@
             <span class="input-group-btn">
                 <button class="btn btn-default"><i class="fa fa-search"></i></button>
             </span>
