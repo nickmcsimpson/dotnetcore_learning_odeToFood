@@ -1,12 +1,12 @@
-/Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csprojAssemblyReference.cache
-/Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.AssemblyInfoInputs.cache
-/Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.AssemblyInfo.cs
-/Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csproj.CoreCompileInputs.cache
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.deps.json
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.dll
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.pdb
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Core.dll
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Core.pdb
+/Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csprojAssemblyReference.cache
+/Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.AssemblyInfoInputs.cache
+/Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.AssemblyInfo.cs
+/Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csproj.CoreCompileInputs.cache
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csproj.CopyComplete
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.dll
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.pdb

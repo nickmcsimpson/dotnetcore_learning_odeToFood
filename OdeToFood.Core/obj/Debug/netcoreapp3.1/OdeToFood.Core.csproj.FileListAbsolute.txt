@@ -1,7 +1,6 @@
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Core/bin/Debug/netcoreapp3.1/OdeToFood.Core.deps.json
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Core/bin/Debug/netcoreapp3.1/OdeToFood.Core.dll
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Core/bin/Debug/netcoreapp3.1/OdeToFood.Core.pdb
-/Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp3.1/OdeToFood.Core.csprojAssemblyReference.cache
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp3.1/OdeToFood.Core.AssemblyInfoInputs.cache
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp3.1/OdeToFood.Core.AssemblyInfo.cs
 /Users/nick.simpson/Documents/Projects/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp3.1/OdeToFood.Core.csproj.CoreCompileInputs.cache
